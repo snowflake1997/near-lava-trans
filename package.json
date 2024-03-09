@@ -1,0 +1,13 @@
+{
+  "name": "near-lava-trans",
+  "version": "1.0.0",
+  "description": "near use lava rpc node do trans near",
+  "main": "index.js",
+  "repository": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kid_997",
+  "license": "ISC"
+}
