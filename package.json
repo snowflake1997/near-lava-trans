@@ -1,14 +1,20 @@
 {
   "name": "near-lava-trans",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "near use lava rpc node do trans near",
   "main": "index.js",
   "repository": "https://github.com/snowflake1997/near-lava-trans.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {"near-api-js": "3.0.3"},
-  "keywords": ["NEAR","LAVA","TRANSFER"],
+  "dependencies": {
+    "near-api-js": "3.0.3"
+  },
+  "keywords": [
+    "NEAR",
+    "LAVA",
+    "TRANSFER"
+  ],
   "author": "kid_997",
   "license": "ISC"
 }
